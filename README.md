@@ -6,6 +6,6 @@
 - Connects to a PostgreSQL database.
 
 ## Part 2: Processing
-- Receives a video from the app and analyzes the average angle of the knees to assess proper squat form.
+- Receives a video from the app and analyzes the average angle of the knees to assess proper squat form. Uses OpenCV and OpenPose/
 - Generates a workout plan for the user based on the video data and survey answers from the app.
 - Updates the Note with the generated workout plan.
