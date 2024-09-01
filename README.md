@@ -1,4 +1,6 @@
 # Simplexercise (backend)
+## Video overview
+[Video Overview](https://www.youtube.com/watch?v=9Y1FDvHgPsU)
 
 ## Part 1: Django REST Framework
 - Sets up models for notes, which are used to carry information for a specific request for a workout plan.
